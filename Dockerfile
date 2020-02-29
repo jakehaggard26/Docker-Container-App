@@ -1,3 +1,9 @@
-FROM busybox
+FROM python:3.7.3-stretch
 
-CMD echo "Hello world! This is my first Docker image."
+# Working Directory
+WORKDIR /project-twp
+
+# Copy source code to working directory
+COPY . app.py /project-two/
+
+CMD echo "Hello! This is my first Docker image. Everything functions properly..."
