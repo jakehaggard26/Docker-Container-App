@@ -22,10 +22,14 @@ if __name__ == '__main__':
     print("Total Row Number: {0} \nTotal Col Number: {1}".format(df.shape[0], df.shape[1]))
     
     # prints the qbr_data data frame
+    print("Before: ")
     print(qbr_data)
+    
+    print()
     
     # sorts the qbr_data data_frame
     qbr_data = qbr_data.sort_values("QBR", ascending=False)
     
     # prints the sorted qbr_data data frame
+    print("After: ")
     print(qbr_data)
