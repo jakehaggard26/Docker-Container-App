@@ -2,7 +2,7 @@
 # This tags and uploads an image to Docker Hub
 
 #Assumes this is built
-#docker build --tag=app .
+docker build --tag=app .
 
 
 dockerpath="jhagg26/project-two"
