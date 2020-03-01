@@ -9,7 +9,8 @@
   
   <h2>Requirements</h2>
   <ul>
-    <li>Pandas</li>
+    <li>pandas</li>
+    <li>pylint</li>
   </ul>
   
   <h2>Docker Commands</h2>
