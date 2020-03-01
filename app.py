@@ -2,7 +2,6 @@
 
 # imports
 import pandas as pd
-import numpy as np
 
 if __name__ == '__main__':
     # reads in the csv file
