@@ -15,8 +15,8 @@
   
   <h1>Docker Commands</h1>
   <ul>
-    <li><strong>Pull:<strong> docker pull jhagg26/project-two</li>
-    <li><strong>Run:<strong> docker run jhagg26/project-two</li>
+    <li><strong>Pull:</strong> docker pull jhagg26/project-two</li>
+    <li><strong>Run:</strong> docker run jhagg26/project-two</li>
   </ul>
       
   <h1>Docker Contents</h1>
