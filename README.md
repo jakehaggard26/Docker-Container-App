@@ -4,7 +4,7 @@ Docker-Container-App
   
   <h2>Project Description</h2>
   <p>
-    This project takes 58 QB's from the 2015 NFL season and then sorts them based on QBR using pandas.<br>
+    This project takes 58 QB's from the 2015 NFL season and then sorts them based on QBR using Pandas.<br>
   </p>
   
   <h2>Requirements</h2>
